@@ -43,5 +43,3 @@
 ### Links
 
 - [♻️ Discord](https://discord.gg/8FY29PErFm) 
-- [🚫 Dashboard](http://stealer.wtf/) 
-- [🔆 Features](https://github.com/) 
