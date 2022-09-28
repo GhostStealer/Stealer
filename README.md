@@ -29,15 +29,6 @@
 - [x] Wallet Grab (Metamask, Coinbase, Exodus, etc.)
 - [ ] [...]
     
----
-<div align="center">
-  <h1>Viewer</h1><BR>
-<img align src="https://cdn.discordapp.com/attachments/964578262258958366/1015667206081753218/unknown.png" width="500"/>
-  <h1>Parser</h1><BR>
-<img align src="https://cdn.discordapp.com/attachments/1015638278768173197/1015667568599634060/unknown.png" width="500"/>
-  <h1>Builder</h1><BR>
-<img align src="https://cdn.discordapp.com/attachments/1015638278768173197/1015667499485888572/unknown.png" width="500"/>
-<div/>
 
 ---
 ### Links
